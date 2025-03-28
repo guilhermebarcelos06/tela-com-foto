@@ -60,7 +60,7 @@
         </form>
         <p id="error-message" style="color: red; display: none;">Usuário ou senha incorretos!</p>
         <!-- Espaço para exibir a imagem -->
-        <img id="AMOR" src="C:\Users\vanes\Downloads\AMOR.jpg" alt="Imagem de Sucesso" width="300">
+        <img id="AMOR" src="AMOR.jpg" alt="AMOR" width="300">
     </div>
 
     <script>
